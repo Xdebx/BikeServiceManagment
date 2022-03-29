@@ -1,0 +1,106 @@
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\BikeManagementSystem.exe.config
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\BikeManagementSystem.exe
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\BikeManagementSystem.pdb
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\BikeManagementSystem.xml
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\MySql.Data.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\System.Memory.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\System.Buffers.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.vbproj.AssemblyReference.cache
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Customer.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.MAINFORM.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Resources.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.vbproj.GenerateResource.cache
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.vbproj.CoreCompileInputs.cache
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.vbproj.CopyComplete
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.exe
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.xml
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.pdb
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Products.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Accessories.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.BikeServices.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Mechanics.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Supplier.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Brand.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.OperatingExpenses.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Login.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.SupplierTransaction.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.CustomerTransaction.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.MechanicProfile.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.OwnerProfile.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.CustomerBikeTransaction.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.BIGAYNGSAHOD.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.SalesReport.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Form1.resources
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\FlashControlV71.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SCHOOLWORKS\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\stdole.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\BikeManagementSystem.exe.config
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\BikeManagementSystem.exe
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\BikeManagementSystem.pdb
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\BikeManagementSystem.xml
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\FlashControlV71.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\MySql.Data.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\stdole.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\System.Memory.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\System.Buffers.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.vbproj.AssemblyReference.cache
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Accessories.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.BIGAYNGSAHOD.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.BikeServices.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Brand.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Customer.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.CustomerBikeTransaction.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.CustomerTransaction.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Form1.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Login.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.MAINFORM.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.MechanicProfile.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Mechanics.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Resources.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.OperatingExpenses.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.OwnerProfile.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Products.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.SalesReport.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.Supplier.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.SupplierTransaction.resources
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.vbproj.GenerateResource.cache
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.vbproj.CoreCompileInputs.cache
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.vbproj.CopyComplete
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.exe
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.xml
+D:\SCHOOLWORKS(1st Year)\Fundamentals of Database\BikeManagementSystem\BikeManagementSystem\obj\Debug\BikeManagementSystem.pdb
